@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kafene/static/css/main.568ed52b.chunk.css",
+    "main.js": "/kafene/static/js/main.eb794f69.chunk.js",
+    "main.js.map": "/kafene/static/js/main.eb794f69.chunk.js.map",
+    "runtime-main.js": "/kafene/static/js/runtime-main.a270b3a3.js",
+    "runtime-main.js.map": "/kafene/static/js/runtime-main.a270b3a3.js.map",
+    "static/js/2.e918d835.chunk.js": "/kafene/static/js/2.e918d835.chunk.js",
+    "static/js/2.e918d835.chunk.js.map": "/kafene/static/js/2.e918d835.chunk.js.map",
+    "static/js/3.e45157b2.chunk.js": "/kafene/static/js/3.e45157b2.chunk.js",
+    "static/js/3.e45157b2.chunk.js.map": "/kafene/static/js/3.e45157b2.chunk.js.map",
+    "index.html": "/kafene/index.html",
+    "static/css/main.568ed52b.chunk.css.map": "/kafene/static/css/main.568ed52b.chunk.css.map",
+    "static/js/2.e918d835.chunk.js.LICENSE.txt": "/kafene/static/js/2.e918d835.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a270b3a3.js",
+    "static/js/2.e918d835.chunk.js",
+    "static/css/main.568ed52b.chunk.css",
+    "static/js/main.eb794f69.chunk.js"
+  ]
+}
